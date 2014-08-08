@@ -1,0 +1,24 @@
+edusantara-repository-setup (0.4+edusantara1) anambas; urgency=low
+
+  * Porting for Edusantara
+
+ -- Mahyuddin <yudi.al@gmail.com>  Fri, 08 Aug 2014 23:59:10 +0700
+
+blankon-repository-setup (0.3) suroboyo; urgency=low
+
+  * Repository for suroboyo
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 18 Aug 2012 22:29:39 +0700
+
+blankon-repository-setup (0.2) rote; urgency=low
+
+  * Update sorces.list 
+    - Added updates & secuirty 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 02 Jul 2012 19:13:23 +0700
+
+blankon-repository-setup (0.1) rote; urgency=low
+
+  * Initial release 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 06 May 2012 22:48:41 +0700

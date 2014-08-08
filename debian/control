@@ -1,0 +1,14 @@
+Source: edusantara-repository-setup
+Section: edusantara-installer
+Priority: extra
+Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
+Build-Depends: debhelper (>= 7), cdbs
+Standards-Version: 3.9.3
+VCS-git: git clone git@github.com:Edusantara/edusantara-installer.git
+VCS-Browser: http://github.com/Edusantara/edusantara-installer
+
+Package: edusantara-repository-setup
+Architecture: all
+Depends: edusantara-installer
+Description: Edusantara repository setup
+ Edusantara repository setup for Edusantara installer
