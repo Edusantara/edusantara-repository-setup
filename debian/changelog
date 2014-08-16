@@ -1,3 +1,9 @@
+edusantara-repository-setup (0.4+edusantara2) anambas; urgency=medium
+
+  * debian/install change to BlankOn path
+  
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 17 Aug 2014 06:51:02 +0700
+
 edusantara-repository-setup (0.4+edusantara1) anambas; urgency=low
 
   * Porting for Edusantara
