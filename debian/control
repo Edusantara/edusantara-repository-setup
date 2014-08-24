@@ -9,6 +9,6 @@ VCS-Browser: http://github.com/Edusantara/edusantara-installer
 
 Package: edusantara-repository-setup
 Architecture: all
-Depends: blankon-installer
+Depends: edusantara-installer
 Description: Edusantara repository setup
  Edusantara repository setup for Edusantara installer
