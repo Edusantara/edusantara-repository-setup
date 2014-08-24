@@ -1,3 +1,10 @@
+edusantara-repository-setup (0.4+edusantara5) anambas; urgency=medium
+
+  * debian/control 
+    - change edusantara-installer to blankon-installer
+  
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 24 Aug 2014 13:52:02 +0700
+
 edusantara-repository-setup (0.4+edusantara4) anambas; urgency=medium
 
   * debian/control 
