@@ -1,15 +1,15 @@
 ## Repository Edusantara Anambas 
 
-deb http://118.98.166.45/edusantara anambas main restricted extras extras-restricted
-deb-src http://118.98.166.45/edusantara anambas main restricted extras extras-restricted
+deb http://arsip.edusantara.kemdikbud.go.id/edusantara anambas main restricted extras extras-restricted
+deb-src http://arsip.edusantara.kemdikbud.go.id/edusantara anambas main restricted extras extras-restricted
 
 ## Repository Edusantara Anambas Updates
 
-deb http://118.98.166.45/edusantara anambas-updates main restricted extras extras-restricted
-deb-src http://118.98.166.45/edusantara anambas-updates main restricted extras extras-restricted
+deb http://arsip.edusantara.kemdikbud.go.id/edusantara anambas-updates main restricted extras extras-restricted
+deb-src http://arsip.edusantara.kemdikbud.go.id/edusantara anambas-updates main restricted extras extras-restricted
 
 ## Repository Edusantara Anambas Security
 
-deb http://118.98.166.45/edusantara anambas-security main restricted extras extras-restricted
-deb-src http://118.98.166.45/edusantara anambas-security main restricted extras extras-restricted
+deb http://arsip.edusantara.kemdikbud.go.id/edusantara anambas-security main restricted extras extras-restricted
+deb-src http://arsip.edusantara.kemdikbud.go.id/edusantara anambas-security main restricted extras extras-restricted
 

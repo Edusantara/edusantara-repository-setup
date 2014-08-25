@@ -1,3 +1,9 @@
+edusantara-repository-setup (0.4+edusantara6+nmu1) anambas; urgency=low
+
+  * Merubah IP menjadi Domain
+
+ -- Mona <monalisa.nov@gmail.com>  Mon, 25 Aug 2014 15:44:22 +0700
+
 edusantara-repository-setup (0.4+edusantara5) anambas; urgency=medium
 
   * debian/control 
